@@ -1,3 +1,5 @@
+console.log('testing git control throught the server')
+
 let voucherVar = null;
 let businessUnit = "fi";
 let obwVersion = "obw21";
